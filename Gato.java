@@ -5,6 +5,6 @@ public class Gato {
 	}
 
 	int muito_boa() {
-		return 3;
+		return 4;
 	}
 }
