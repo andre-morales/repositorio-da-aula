@@ -1,5 +1,5 @@
 public class Gato {
 	public void mia() {
-		System.out.println("Miau");
+		System.out.println("É miau!");
 	}
 }
